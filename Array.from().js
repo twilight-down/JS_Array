@@ -20,4 +20,4 @@ console.log(val);
 console.log(key);
 console.log(mapArr);
 
-console.log(map.length);
+console.log(b.length);
